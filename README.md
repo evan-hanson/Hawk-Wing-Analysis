@@ -1,1 +1,2 @@
 # Hawk-Wing-Analysis
+This project uses MATLAB to analyse a hawks wing under a typical loading and an extreme scenario.  I worked on a team of 3 to analysis data collected from acedemic sources and our professor, utilizing major topics of the course.  This project looks at the internal moments and forces, stresses, strains, deformation, and failure criteria of a simplified hawks wing.  Utilizing MATLAB and Solidworks to create a deformation graphic, my team produced a report for our final grade in mechanics of solids.
